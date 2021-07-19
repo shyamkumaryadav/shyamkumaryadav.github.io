@@ -156,7 +156,7 @@ export default {
     drawer: false,
     icons: [
         {id:0, name:'mdi-github',title:'Github', link:'//github.com/shyamkumaryadav', color:'grey'},
-        {id:1, name:'mdi-twitter',title:'Twitter', link:'//twitter.com/shyamkumaryada', color:'light-blue'},
+        {id:1, name:'mdi-linkedin',title:'LinkedIn', link:'//linkedin.com/in/shyamkumaryada', color:'light-blue'},
         {id:2, name:'mdi-youtube', title:'YouTube', link:'//youtube.com/channel/UCr2eV9fZwyGTQEGfCWyGCFg', color:'red darken-1'},
         {id:3, name:'mdi-patreon',title:'Patreon', link:'//patreon.com/shyamkumaryadav', color:'#f16551'},
         {id:4, name:'mdi-reddit',title:'Reddit', link:'//reddit.com/u/shyamkumaryadav', color:'deep-orange'},
